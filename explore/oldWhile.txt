@@ -1,0 +1,19 @@
+      // @scala.annotation.tailrec
+      // def whileNonEmpty(pq: PriorityQueue[(Int, Node)]): Unit = {
+      //   if (pq.nonEmpty) {
+      //     val (curDist, minDistNode) = pq.dequeue()
+      //     if (curDist > dist(minDistNode)) whileNonEmpty(pq)
+      //     else {
+      //       val edges = adj.getOrElse(minDistNode, List.empty)
+      //       edges.foreach { e =>
+      //         if (dist(e.to) > dist(e.from) + e.weight.value) {
+      //           dist(e.to) = dist(e.from) + e.weight.value
+      //           prev(e.to) = Some(e)
+      //           pq.enqueue((dist(e.to), e.to))
+      //         }
+      //       }
+      //       whileNonEmpty(pq)
+      //     }
+      //   }
+      // }
+      // whileNonEmpty(pq)
