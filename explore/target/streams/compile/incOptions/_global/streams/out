@@ -1,20 +1,65 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/georgy/Desktop/study/vii-semester/diploma/explore/target/scala-2.13/classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiftNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Distance.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoadNode.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$EnrichShortestPathToString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$EnrichGraph$EnrichIntForGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeightedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Distance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeightedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoadNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StairsNode$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StairsNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$EnrichGraph$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$EnrichNodeToString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$EnrichGraph$EnrichNodesToEdge.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPathResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Edge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPathResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiftNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiftNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Distance.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoadNode.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$EnrichShortestPathToString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$EnrichGraph$EnrichIntForGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeightedGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Distance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeightedGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoadNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StairsNode$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StairsNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$EnrichGraph$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$EnrichNodeToString.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$EnrichGraph$EnrichNodesToEdge.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$EnrichShortestPathToString.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$EnrichNodeToString.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPathResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Edge$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPathResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiftNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MisisB$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRolling back changes to class files.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRestoring class files: [0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/georgy/Desktop/study/vii-semester/diploma/explore/target/scala-2.13/classes.bak[0m

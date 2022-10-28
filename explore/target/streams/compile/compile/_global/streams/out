@@ -1,7 +1,7 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/georgy/Desktop/study/vii-semester/diploma/explore/src/main/scala/navigate/Main.scala:15:32: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Nil[0m
-[0m[[0m[33mwarn[0m] [0m[0m    def richToString: String = elem match {[0m
-[0m[[0m[33mwarn[0m] [0m[0m                               ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m2 deprecations (since 2.13.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0m1 feature warning; re-run with -feature for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/georgy/Desktop/study/vii-semester/diploma/explore/src/main/scala/navigate/Main.scala:32:24: value currentTimeMillis is not a member of object zio.System[0m
+[0m[[0m[31merror[0m] [0m[0m    val begin = System.currentTimeMillis()[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/georgy/Desktop/study/vii-semester/diploma/explore/src/main/scala/navigate/Main.scala:37:24: value currentTimeMillis is not a member of object zio.System[0m
+[0m[[0m[31merror[0m] [0m[0m      val end = System.currentTimeMillis()[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
