@@ -12,8 +12,8 @@ sealed trait Node
 case class RoadNode(id: Int, name: String) extends Node
 case class LiftNode(id: Int, name: String) extends Node
 case class StairsNode(id: Int, name: String) extends Node
-case class RoomNode(id: Int, name: String, tags: Set[String] = Set.empty) extends Node
 case class ServiceNode(id: Int, name: String, tags: Set[String] = Set.empty) extends Node
+case class RoomNode(id: Int, name: String, tags: Set[String] = Set.empty) extends Node
 
 case class Distance(value: Int)
 

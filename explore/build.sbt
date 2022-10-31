@@ -26,7 +26,15 @@ version := "1.0"
 // You can define other libraries as dependencies in your build like this:
 
 libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "2.1.1"
+
 libraryDependencies += "dev.zio" %% "zio" % "2.0.2"
+// Provides Quill contexts for ZIO.
+libraryDependencies += "io.getquill" %% "quill-zio" % "4.6.0"
+
+// Provides Quill context that execute MySQL, PostgreSQL, SQLite, H2, SQL Server and Oracle queries inside of ZIO.
+libraryDependencies += "io.getquill" %% "quill-jdbc-zio" % "4.6.0"
+libraryDependencies += "org.postgresql" %  "postgresql"  % "42.5.0"
+
 
 // Here, `libraryDependencies` is a set of dependencies, and by using `+=`,
 // we're adding the scala-parser-combinators dependency to the set of dependencies
